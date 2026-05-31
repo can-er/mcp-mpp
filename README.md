@@ -1,5 +1,12 @@
 # mcp-mpp
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![MCP server](https://img.shields.io/badge/MCP-server-1f6feb?logo=anthropic&logoColor=white)](https://modelcontextprotocol.io/)
+[![Managed with uv](https://img.shields.io/badge/managed%20with-uv-de5fe9?logo=uv&logoColor=white)](https://docs.astral.sh/uv/)
+[![Status: unofficial](https://img.shields.io/badge/status-unofficial-orange.svg)](#)
+[![Last commit](https://img.shields.io/github/last-commit/can-er/mcp-mpp)](https://github.com/can-er/mcp-mpp/commits/main)
+
 An **MCP server for [Mon Petit Prono](https://mpp.football)** (MPP) — the French
 football-prediction game. It lets an AI assistant (Claude, or any MCP client)
 read your open matches and **submit your score predictions** programmatically,
