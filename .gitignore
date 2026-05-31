@@ -1,0 +1,21 @@
+# Secrets — NEVER commit
+.env
+.mpp_tokens.json
+
+# Captures may contain tokens/PII — sanitize before committing anything here
+docs/captures/*.raw.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.uv/
+*.egg-info/
+dist/
+build/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
